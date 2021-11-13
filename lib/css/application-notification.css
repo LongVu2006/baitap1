@@ -1,0 +1,56 @@
+.application-notification{
+	position: relative;
+	max-width: 1440px;
+	margin: 150px 0 0 0;
+}
+   				/*Text*/
+.application-notification-1{
+	width: 617px;
+	height: 600px;
+}
+.get-the-highest{
+	position: absolute;
+	width: 493px;
+	height: 130px;
+	top: 100px;
+	left: 104px;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 65px;
+}
+.application-now{
+	position: absolute;
+	width: 493px;
+	height: 180px;
+	top: 300px;
+	left: 104px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+}
+		/*Picture*/
+.application-notification-2{
+	width: 700px;
+	height: 600px;
+	background: #EEF4FF;
+	border-radius: 0px 100px 100px 0px;
+}
+#get1{
+	position: absolute;
+	width: 445.21px;
+	height: 571.64px;
+	left: 0.96px;
+	top: 27.76px;
+	transform: rotate(0deg);
+	border-bottom-left-radius: 97px;
+}
+#get2{
+	position: absolute;
+	width: 307.21px;
+	height: 526.64px;
+	left: 391.96px;
+	top: 1.76px;
+	transform: rotate(0deg);
+}

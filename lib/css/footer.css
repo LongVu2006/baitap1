@@ -1,0 +1,40 @@
+.footer{
+	max-width: 1440px;
+	margin-top: 100px;
+}
+.menu-footer{
+	width: 1440px;
+	padding: 0 0 0 100px;
+	height: 70px;
+}
+.li-ul{
+	width: 1440px;
+	padding: 0 0 0 100px;
+}
+				/*Menu Footer*/
+.menu-footer > .col-xl-3{
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 36px;
+	color: #000000;
+}
+.li-ul > .col-xl-3{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+	color: #2D76F9;
+}
+#logo-footer{
+	width: 180px;
+}
+span{
+	color: #747474;
+}
+.face{
+	margin-right: 37px;
+}
+.in{
+	margin-right: 37px;
+}

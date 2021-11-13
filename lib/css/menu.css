@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:20');
+.container{
+	margin:0 auto;
+	max-width: 1440px;
+	font-size: 24px;
+	padding: 20px;
+	background: #f9f9f9;
+	text-align: left;
+	word-spacing: 2px;
+	font-family: 'Poppins',sans-serif;
+	height: 1000px;
+}
+.row{
+	max-width: 1440px;
+}
+				/*Flex Menu*/
+.flex-menu{
+	max-width: 450px;
+	display: flex;
+	position: absolute;
+    left: 216px;
+    top: 36px;
+}
+#vector{
+	display: none;
+	border: 1.5px solid #2D76F9;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 10px;
+}
+.flex-menu > div {
+	margin: 0px 0px 0px 30px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+	max-width: 100px;
+	padding-right: 10px;
+}
+.menu{
+	max-width: 740px;
+	height: 850px;
+	margin-left: 100px;
+	position: relative;
+}
+#logo{
+	position: absolute;
+	max-width: 135px;
+	height: 36px;
+	top: 32px;
+}
+#home{
+	color: #2D76F9;
+	font-weight: bold;
+
+}
+					/*Text*/
+#manage{
+	position: absolute;
+	max-width: 533px;
+	height: 255px;
+	top: 200px;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 64px;
+	line-height: 85px;
+}
+#create{
+	position: absolute;
+	max-width: 533px;
+	height: 108px;
+	top: 495px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+}
+				/*Download App*/
+#download-app{
+	position: absolute;
+	left: 100px;
+	top: 653px;
+	padding: 24px 58px;
+	background: #2D76F9;
+	border-radius: 1500px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 27px;
+	color: #FFFFFF;
+}
+
+			/*Media Query*/
+/*@media (max-width: 480px){
+	.menu{
+		max-width: 480px;
+	}
+	.col-xl-6{
+		width: 100%;
+	}
+}*/

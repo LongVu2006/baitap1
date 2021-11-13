@@ -1,0 +1,62 @@
+		/*Center*/
+.schedule{
+	margin: 150px 100px 0 100px;
+	max-width: 1440px;
+}
+		/*Deadline*/
+#deadline{
+	background: #EEF4FF;
+	border-radius: 100px;
+	padding: 15px 15px 15px 15px;
+}
+#deadline-1{
+	margin-top: 50px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 36px;
+}
+#deadline-2{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+}
+		/*Manage*/
+#Manage{
+	background: #EEF4FF;
+	border-radius: 100px;
+	padding: 15px 15px 15px 15px;
+}
+#manage-1{
+	margin-top: 50px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 36px;
+}
+#manage-2{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+}
+		/*Notification*/
+#notification{
+	background: #EEF4FF;
+	border-radius: 100px;
+	padding: 19px;
+}
+#notification-1{
+	margin-top: 50px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 36px;
+}
+#notification-2{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+}
